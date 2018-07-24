@@ -4,5 +4,5 @@
 
 ### Supporting material
 
-- A complex pattern-classification problem, cast in a high-dimensional space nonlinearly, is more likely to be linearly separable than in a low-dimensional space, provided that the space is not densely populated.
-[Cover's theorem](https://en.wikipedia.org/wiki/Cover%27s_theorem)  
+- [Cover's theorem](https://en.wikipedia.org/wiki/Cover%27s_theorem): A complex pattern-classification problem, cast in a high-dimensional space nonlinearly, 
+is more likely to be linearly separable than in a low-dimensional space, provided that the space is not densely populated.
