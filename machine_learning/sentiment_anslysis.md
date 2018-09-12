@@ -1,6 +1,7 @@
 ### Tutorials
 
 - Another Twitter sentiment analysis: [Part 1](https://towardsdatascience.com/another-twitter-sentiment-analysis-bb5b01ebad90), [Part 2](https://towardsdatascience.com/another-twitter-sentiment-analysis-with-python-part-2-333514854913).
+- [Build a Sentiment Analysis Tool for Twitter with this Simple Python Script](https://pythonprogramming.net/data-size-example-tensorflow-deep-learning-tutorial/)
 
 ### Pointers
 
