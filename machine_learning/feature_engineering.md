@@ -1,7 +1,6 @@
 # Feature Engineering
 
-### Featuretools
-- [Product](https://www.featuretools.com/)
+### [Featuretools](https://www.featuretools.com/)
 - [Company: Featurelabs](https://www.featurelabs.com/)
 - [Source](https://github.com/Featuretools)
 - [Automated Feature Engineering in Python](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)
