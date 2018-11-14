@@ -7,5 +7,6 @@
 ### [H20](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html)
 
 ### [TPOT](https://epistasislab.github.io/tpot/)
+- [Brewing a Batch of Machine Learning with TPOT](https://tinyurl.com/yd6dehsx)
 
 ### [auto-sklearn](https://automl.github.io/auto-sklearn/stable/)
