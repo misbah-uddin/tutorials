@@ -6,7 +6,7 @@
 - [Productizing Data Science at Twitch](https://blog.twitch.tv/productizing-data-science-at-twitch-67a643fd8c44)
 - [Productizing ML Models with Dataflow](https://towardsdatascience.com/productizing-ml-models-with-dataflow-99a224ce9f19)
 - [How do you take a machine learning model to production?](https://www.quora.com/How-do-you-take-a-machine-learning-model-to-production)
-- How to Version Control your Machine Learning task [Part I](https://towardsdatascience.com/how-to-version-control-your-machine-learning-task-cad74dce44c4), [Part II](https://becominghuman.ai/how-to-version-control-your-machine-learning-task-ii-d37da60ef570)
+- How to Version Control your Machine Learning task: [Part I](https://towardsdatascience.com/how-to-version-control-your-machine-learning-task-cad74dce44c4), [Part II](https://becominghuman.ai/how-to-version-control-your-machine-learning-task-ii-d37da60ef570)
 - [Scalable Machine Learning in Production With Apache Kafka](https://dzone.com/articles/build-and-deploy-scalable-machine-learning-in-prod)
 - [Overview: Tracking and Reproducibility in Quantitative Workflows](https://blog.datmo.io/tracking-and-reproducibility-in-data-projects-af64ce109774), [Manage your AI in production with ease](https://datmo.com/)
 - [Data Version Control Tutorial](https://blog.dataversioncontrol.com/data-version-control-tutorial-9146715eda46), [Open-source
